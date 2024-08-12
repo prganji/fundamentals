@@ -1,0 +1,1085 @@
+https://studylib.net/doc/25761635/432939266-dell-boomi-essentials-slides-v2-0
+
+https://www.xtivia.com/blog/boomi-best-practices/
+
+https://www.acte.in/dell-boomi-interview-questions-and-answers
+
+Weblogic 8.1/9.2/10.3.
+8.x, 9.2,
+
+There are multiple types of integration---https://simplicable.com/new/integration-types
+
+
+Dell Boomi is the integration as a service platform that is used for API management, master data management, and data preparation. Boomi was first invented by Berwyn and was launched in 2007. Dell Boomi is the Integrated Platform as a Service (iPaaS) industry’s leading platform as this platform allows customers to design cloud-based integration processes called Atoms and transfer data between cloud and on-premises applications. Every atom means whatever is important for data integration.
+ To clarify the Dell Boomi Atmosphere is a cloud-put joining stage that was different regarding prelude applications, information, and the cloud that can be related together. It is also worked in API the board and Master Data Management. This stage engages a cloud-based joining measure called Atoms, which helps in the trading of information between on-premise applications and the cloud. The Atoms pick the need for combination. 
+OR
+Dell Boomi is an integration platform used for connecting cloud applications and data, it also used for enabling customers for designing cloud based integration process known as Atoms which transfers data between cloud and on-premises applications.It helps in allowing organizations to load large volumes of information into a database and in increasing the number of integration projects which can be centrally managed.
+
+Q1) What are the main features of Dell Boomi?
+Activity monitoring
+Event tracking
+Crowd-sourced knowledge base
+Detailed activity logs
+Application, data, and B2B integration
+Automate complex integrations
+Boomi Suggest tool
+Process status alerts
+Integration components series
+Point-and-click, drag-and-drop tools
+Predictive Assistance
+Crowd-sourced regression testing
+Lightweight, dynamic run-time engine
+Design integration processes
+Library of pre-built connectors
+Automatic integration updates
+Real-time automatic updates
+
+Q2) What are the benefits of using Atmosphere in Dell Boomi?
+Ans: There are many best things about using Atomsphere approach. 
+Getting to the Atmosphere is simple practically like web-based software. 
+Its integration process is exceptionally straightforward
+The best part is Boomi support team offers weekly training that makes us understand this technology with ease. 
+Businesses can leverage this for their greater benefit.There are certain benefits to using it. 
+The prime one is its user-friendly approach. 
+The subsequent good thing is its compatibility and fast operations. 
+Moreover, the weekly training offered by the Boomi support team can let anyone understand this technology in the shortest possible time.
+albeit you’re using it with third-party software, it doesn’t degrade its performance.
+Boomi atmosphere assures high scalability and availability
+It is basically an online service/web service that is best in every aspect. The best part is users need not to worry about buying the new software or installation of the same when it comes to using them. All that is required is simply log-in on the Boomi page and start performing the concerned task. The atmosphere is fast, reliable, as well as a compatible approach that is gaining more and more attention due to the diverse array of benefits it offers. 
+
+Q3) Why do companies use Dell Boomi?
+Every company will have a goal of getting into the market more rapidly than its competitors, working more efficiently yet economically in this scenario; As Dell Boomi is a single instance multi-tenant tool, it reduces the capital costs and offers all the cloud functionalities, like:
+Scalability
+Flexibility
+Agility
+Automatic Upgrades
+Design Patterns
+Automatic upgrades
+High availability
+
+Q4) Is Dell Boomi an ETL tool?
+Ans: Boomi was purchased by Dell in 2010 and was named Dell Boomi at then. Boomi offers an iPaaS(integration platform as a service) that includes ETL abilities. This platform boasts high flexibility with the capability to integrate both cloud-based and on-premises data and applications. It also supports real-time, event-based, and batch processing.
+
+Q5) How good is Dell Boomi?
+Ans: Dell Boomi Atmosphere is a great solution as a low-code integration platform. The UI is easy to use and makes coordinating as simple as drag and drop. It supports private or hybrid cloud solutions which give greater adaptability and control of your frameworks.
+
+Q6) Explain the process in Boomi?
+Ans: A process is an interface among two or more frameworks among which exchange or transaction happens. Let us think about the procedure of synchronization. This procedure comprises a progression of various shapes that speak to the means for transformation. They sometimes comprise applications during the time spent on data transformation from source to the destination
+OR
+The process acts as an interface between two or more frameworks in which we perform transactions or exchanges. The best example of this is account synchronization. The process contains advanced shapes in the form of a flow chart.
+
+Q7) What is the purpose of Workflow Automation in Dell Boomi?
+In Dell Boomi, Workflow Automation removes the manual work required to complete the business process through the rules-based logic that streamlines and automates the sequence of the actions.
+
+Q8) What is Atmosphere Approach in Dell Boomi?
+In Dell Boomi, integration is an essential process. Further, using the atmosphere approach is getting into web programming. The weekly training provided by Boomi supporting team allows us to understand this technology in a short time.
+
+Q9) What do you think about the applications that can be coordinated with the assistance of the Atmosphere?
+Ans: There is no severe furthest cutoff on applications that can be gotten to through the Atmosphere administration in Boomi. Pretty much every business applications are accessible to coordinate and hence clients need not stress over anything while at the same time getting to the Atmosphere. All applications are exceptionally adaptable and play out their undertakings dependably.
+
+Q10) Do we require Atmosphere for running an Atom?
+Yes, we require Atmosphere for running an Atom because Atom does not have its GUI. As Atmosphere is a distributed architecture, we will not face failures.
+
+Q11) What platforms do I require for running atmosphere?
+As Boomi hosts the application, all we require is a computer or an alternative device that runs a web browser. It is not important what kind of operating system or hardware you are using.
+
+Q12) What are the talents that are required when it involves configuring the Atmosphere?
+Ans: there’s no got to have some advanced skills in IT or configuration for the configuration of the Atmosphere. With a basic knowledge of knowledge integration, administration, analyst, and development, this task can easily be accomplished. Thus anyone can perform it without facing major challenges.
+
+Q13) Explain the Working life cycle?
+The working life cycle of Dell Boomi has the following phases:
+1 Build Phase used for developing the process by map and connecting libraries that customize the implementation.
+2 Delopy Phase used for deploying atoms to the AtomSphere like SaaS, cloud integration, and PaaS.
+3 Manage Phase used for preserving economies, configured atoms and no matter where they are located
+
+Q14) Can you describe the Boomi AtomSphere iPaaS?
+Answer: The Boomi AtomSphere incorporation stage as an assistance (iPaaS) underpins all your application coordination forms – between cloud applications, SaaS applications, and on-premises frameworks.
+
+Q15) Explain different layers of cloud computing?
+Ans: Cloud computing has three different layers:
+PaaS - Platform as a Service
+IaaS - Infrastructure as a Service
+SaaS - Software as a service.
+
+Q16) What are the different modes of SaaS?
+In SaaS, we have two different modes:
+Simple multi-tenancy
+Grain multi-tenancy
+Both these modes of SaaS are capable of handling several add-on tasks.
+
+Q17) Explain the benefits of cloud computing for an organization?
+Ans: Cloud computing is a procedure of getting information about an organization from a remote server on the cloud as opposed to getting through the physical server from one place. It sets aside a great deal of money by not setting up a physical server. Another advantage is that one no needs to stress over the support of the server and their downtime anymore.
+OR
+Well, it’s basically an approach that simply lets the organization access everything from remote servers on the cloud instead of having a physical one on their own. the most important benefit they have not to worry about the upkeep of servers and their downtime. Of course, it’s the responsibility of the Cloud computing company.
+The next benefit is cost. it’s possible for any organization to save lots of tons of cash just by considering a cloud computing approach instead of investing money in its own server.
+
+Q18) What are the deployment models for cloud computing?
+For cloud computing, there are three deployment models:
+Private Cloud
+Hybrid Cloud
+Public Cloud
+
+Q19) What are the differences between Traditional Storage and Cloud Storage
+Traditional Storage	                                                             Cloud Storage
+1. When compared to Cloud storage, the conventional storage setup is complex.	       1. Cloud Storage setup is easy.
+2. In the traditional storage, we configure the security options manually.	       2. In Cloud Storage, we don’t have security options.
+3. The traditional storage performance is poor when compared to Cloud storage.	 3. As Cloud Storage is utilizing NoSQL, its performance is good.
+4. File access time is rapid as compared to the cloud storage.	                   4. In Cloud Storage, file access time relies on the network speed.
+
+Q20) What is the difference between the accessing data from the cloud instead of the actual server available in the Organization?
+We can access, use, and share the data the same way as on the actual server’s account on the cloud platform. Clients can assure data retrieval from the gadget irrespective of the area of the cloud platform.
+
+Q21) In what way can we access the Atmosphere?
+Ans: Since it is a cloud-based or online server, we can directly login to http://www.boomi.com through a browser.
+
+Q22) How do we access Atmosphere?
+By logging into the URL “https://boomi.com/,” we can access the atmosphere
+
+Q23) What precisely do you think about the advantages of utilizing the Atmosphere?
+Ans: It is a fundamentally online assistance that is best in each viewpoint. The most amazing aspect is clients need not stress over purchasing the new programming or establishment of a similar with regards to utilizing them. All that is required is essentially sign-in on the Boomi page and begin playing out the concerned errand.
+The environment is quick, dependable, just as a viable methodology that is acquiring and more consideration because of the different exhibit of advantages it offers.
+
+Q24) What are the challenges associated with cloud platforms?
+Cloud is a robust methodology that has its benefits and drawbacks. The first drawback of cloud platforms is their complete dependence on web connections. By chance, if the web connection quits working, it terminates all the operations and cycles. The next and essential drawback is downtime. Although it will not impact top organizations, it affects some functions.
+
+Q25) How can cloud technology be trusted for keeping confidential information?
+Ans: Cloud is a secure approach. Only you will be having access to the information which you kept on the Cloud. It is possible to impose various restrictions on the data or information as per your desire. The confidential information is, in fact, safer on a cloud than on a physical server kept in an organization. Cloud service providers always make sure of privacy and thus data or information’s confidentiality is not an issue.
+
+Q26) What are the probabilities/odds of knowledge loss of a cloud?
+Ans: Well, the probabilities of occurrence of such a misfortune are almost nil. this is often because the info is placed on a 3rd party server. Although organizations keep a replica/duplicate in their own arena, the cloud always acts as a backup. the simplest part is it is often accessed from any device without fear of anything.
+As the cloud companies are highly conscious of the usefulness of what organizations keep up the cloud and sometimes confirm safety, the probabilities of this are almost nil.
+
+Q27) As an organization, moving from on-premise to cloud systems, what challenges can organizations expect to encounter and how can they be solved?
+Ans: In the first place, as cloud empowers progressively particular applications, IT teams are seeing an exponential increment in applications to oversee. That implies they have many more applications to coordinate in this new world than any other time in recent memory. While numerous incorporation sellers state they can help, they are discussing their latest variant of software. Tragically, organizations are running licensed integration software from five to seven years prior—before the cloud was popular. The solution is to increase existing middleware with a cloud-oversaw integration solution that connects to existing introduced middleware. At that point after some time, the more established middleware can be supplanted as integration endpoints are supplanted by cloud applications.
+
+Q28) Is data safe on the cloud? 
+Ans: In contrast to physical servers, there are no odds of data corruption and the impact of viruses, which could influence our system. Data is sheltered on a cloud. Perhaps the greatest challenge that most organizations face is to take a backup of their data every day. This could be overwhelmed with cloud technology. Many organizations are following cloud technologies thinking about the entirety of its points of interest and data security.
+
+Q29) What are the chances that lead to data loss on the cloud?
+Ans: There are basically no chances of data loss on the cloud since the data is placed on a third-party server. Cloud acts as a backup itself despite the fact that associations keep their very own duplicate data. In addition, the cloud data can be gotten from a distant gadget with an internet connection with no hustle. Knowing the significance of data stored on the cloud, cloud organizations take all the measures to hold onto the odds of data loss.
+
+Q30) Is it reliable to store the data in the cloud?
+Data saved in the cloud is far more secure than the data held in computer devices as it is easy for intruders to transmit malware into the system and fetch the data. Therefore, the most reliable method to save our data in the cloud since it saves the data in the encrypted form.
+
+Q31) Name various security aspects that are provided with the cloud?
+Ans: Various security levels available inside a cloud domain are:
+Access control
+Identity administration
+Authorization and confirmation
+
+Q32) Is it possible to impose third-party restrictions on the data that is kept on a cloud? Name a few methods to do so?
+Ans: Any type of limitations can be forced on the information. We can include an extra layer of security to the information, it should effortlessly be possible. A portion of the basic techniques that can help you right now:
+1.Cryptography
+2. Information encoding
+Furthermore, it is likewise conceivable to check information through antivirus, changing their configuration, and separating the equivalent into little squares
+
+Q33) What is the difference/contrast between accessing data or information from a cloud than from a physical server kept in an association/organization?
+Well, there is no much difference in that. The data can be accessed, utilized and shared in the same manner as in case of physical server on a cloud platform. Users can always make sure of accessing the information from their widget without worrying about their location in cloud technology/innovation, provided they have permission/consented to access the same.
+
+Q34) What do you believe are the difficulties related to Cloud innovation?
+Ans: Cloud is fundamentally an incredible methodology that has its own advantages and disadvantages related to it. The greatest test is getting to which is completely subject to the web association. In the event that the web quits working, it prompts a break, on the whole, the cycles and activities.
+The following significant test is personal time. Despite the fact that it will presumed organizations this isn’t an issue, its event can stop cause a few issues.
+
+Q35) How might cloud innovation be trusted for keeping secret data?
+Ans: Cloud is a protected methodology. Just you will approach the data which you kept on the Cloud. It is feasible to force different limitations on the information or data according to your craving. The private data is, indeed, more secure on a cloud than on an actual worker kept in an association. (E-Learning Portal)
+Cloud specialist organizations consistently ensure protection and hence information or data’s secrecy isn’t an issue.
+
+Q36) Would you be able to express a couple of advantages of Atmosphere innovation?
+Ans: There are sure advantages to utilizing it. The excellent one is its easy-to-understand approach. The following beneficial thing is its similarity and quick activities. Regardless of whether you are utilizing it with outsider programming, it doesn’t debase its exhibition
+
+Q37)Explain cloud integration?
+Ans: Cloud Integration is used for connecting various applications, systems, repositories, and IT environments for the real-time exchange of data and processes.All the data and integrated cloud services van be accessed by multiple devices over a network or via internet.
+OR
+Cloud integration is a configuration of different application programs to share their data reliably on the cloud. These applications could be from a direct approach or through third-party software.
+
+Q38) What are the advantages of Cloud Integration?
+Following are the advantages of cloud integration:
+Time-to-market is rapid.
+Good Internal interaction
+Operational effectiveness is improved
+Enhanced flexibility and scalability
+Operational costs are minimized
+
+Q39) Explain different kinds of cloud integration?
+We have two kinds of cloud integration, they are:
+1 Data Integration: Data Integration is a mechanism of data synchronization among the repositories. We can move, convert, or process the data in the data integration.
+2 Application Integration: It links multiple connections and sets up the continued functionality and interoperability.
+
+Q40) How you can make sure that the duplicate data is not sent to the application while Integration?
+Ans: This can be done with the help of Decision logic. However, it remains the final step in most of the cases. Prior to it, there are certain approaches that can be considered such as retry applications that always make sure that only unique data has been processed further
+
+Q41) Does Dell Boomi provide Rollback to modify the integration process?
+Yes, Dell Boomi provides a Rollback option through a model known as “Manipulate.” / we offer version control for our integration process allowing you to rollback to a previous integration process should the need arise.
+
+Q42) Do we require any parallel application or software if the data integrated into Boomi is very large?
+There is no need for any parallel application or software as Boomi Atoms can handle a vast amount of information when integrated.
+
+Q43)Can we handle the integration process either by particular events or dates?
+Yes, we can handle the integration process by particular events or dates.
+
+Q44) How to assure data security in the data integration process?
+Boomi Atmosphere connectors undergo application-specific security whenever applicable. The data sent between Boomi Atom onsite and the data center is passed through an HTTPS channel with 128-bit encryption.Become familiar with AtomSphere’s security (LINK).
+
+Q45) What involvement level is required by the Organization’s IT team to configure the integration process?
+Dell Boomi does not require strong programming skills, so the level of the IT team’s involvement is little. IT team is involved in the installation process of the Boomi atom and allowing access to the resources.
+OR
+Very insignificant inclusion from the company’s IT department is commonly required. Commonplace association from the IT office would incorporate permitting you access to the source/goal applications or permitting you to introduce a Boomi Atom to access your on-premise application.
+
+Q46) Are there any limitations to the kind or amount of Information being Integrated?
+Answer: No, we have benchmarked the Boomi Atom to have the option to deal with enormous volumes, maximum amount as 1,000,000 records 60 minutes.
+
+Q47) Is Test Mode An Actual Test Of The Process Flow Of The Integration And Is The Destination Getting Updated/changed?
+Ans :Yes, test mode actually executes the integration process as designed, so the source and destination will get updated. Boomi AtomSphere provides the concept of ‘Environments’ for those that wish to have the same integration process pointed to different locations (ie. Test, QA, Production).
+
+Q48) How ActiveMQ and Dell Boomi can be integrated?
+Ans: Copy ActiveMQ-core-5.4.3.jar and geronimo-j2ee-management_1.1_spec-1.0.1.jar files from your ActiveMQ to your Atom/usrlib/database (create if not there) directory.
+Create a JNDI property file and place it in the ActiveMQ home directory.
+You might get a NoClassDefFound error for JMS/Topic etc, meaning your Boomi lib does not have the implementation for that. You need to copy activemq-all-5.4.3.jar from the ActiveMQ home folder to Atom/lib.
+
+How to create JMS Connection and Operation in Boomi is not specified here, however, below properties you can use for JMS connection in Boomi:
+
+Connection Factory JNDI Lookup: ConnectionFactory.
+
+Initial Context Factory: org.apache.activemq.jndi.ActiveMQInitialContextFactory (default).
+
+Provider URL: tcp://localhost:61616 (Default port).
+
+Q49) What is Atom?
+In Dell Boomi, Atom is a runtime engine that contains all the components necessary to execute and integrate the process. Boomi has a dashboard that visualizes the status and working conditions of the atoms.
+ OR
+Boomi Atom is a lightweight, dynamic runtime engine that deploys our integration operations to the atom and includes all essential components which we need in executing our processes from end to end.The components contains connectors, transformation rules, and processing logic.
+
+Q50) Explain Atom in Boomi technology?
+Ans: An Atom in Boomi is a runtime engine with all the components that are required for executing an integration process. In Boomi technology, it has a dashboard containing all the features, which screens the working conditions and status of the considerable number of atoms/all the atoms.
+
+Q51)How can we host Atoms?
+Ans: Boomi Atoms are totally independent and self-contained and can be run on virtually any server. They can be sent/deployed "in the cloud" for SaaS to SaaS integration (for example Boomi's data center, and ISVs server farm, or a third-party data center, for example, Amazon) or behind an organization's firewall for SaaS to On-Premise integration.
+
+Q52) If I Have On-premise Sources, How Do I Test My Integration Process In The Hosted Environment? Do I Have To Deploy An Atom To Do My Testing?
+Ans: Yes, the Boomi Atom would reside onsite, allowing you access to the on-premise application through Boomi AtomSphere.
+
+Q53) In which location can we host Boomi atoms? 
+Ans: Boomi Atoms can be hosted on any data center only it should meet the equipment necessities, can run practically on any server since they are independent, and don't require any third-party software to be introduced for it to run. Indeed, even on third-party servers, these would run reliably.
+
+Q54) What are Boomi Molecules?
+Molecules in Boomi allows more than one node to operate simultaneously, it is an enterprise level solution which we can use for deploying on multiple servers.It is a load balancing and higher availability for critical integration processes.Module has multiple nodes that are installed in more than one premise server.
+OR
+Molecules are multi-node and single-tenant runtime that allows multiple nodes to run parallelly. By using molecules, we can deploy on multiple servers. Molecules enhance the load balancing and high availability for the data integration process.
+
+Q55) Give any two scenarios where we use Molecules?
+Through atoms, we can solve various cases. But, there are specific situations where we need to use Molecules; the scenarios are:
+We need to use Molecules Where we have to process multiple documents of enormous size.
+When we are handling a task that requires continuous processing, we need to install Molecules.
+
+Q56) Explain Dell Boomi API Management?
+Dell Boomi API Management supports the entire API life-cycle inside the hybrid environment. First, it tests the API after development and implements it in the production environment. After implementation, it continuously checks the API functionality through the dashboard. The API management of Dell Boomi provides a scalable, cloud-based, and unified platform for maintaining and enhancing API interplays across their life cycle.
+
+Q57).How does Boomi differ from an API?
+Answer: Programming interface implies Application Programming Interface. An API opens up secure access to information in an application however it doesn’t achieve the combination itself. An API resembles an electrical attachment until something is connected to it, it just stays there. Boomi mix Connectors resemble “plugs.” Boomi Connectors plug into and API and unique the specialized subtleties of the API and transportation conventions used to speak with different applications and information sources, permitting you to concentrate on the business information and rationale of the joining.
+The main difference between Boomi and API -Boomi is good at both self-integration and data security, but API is good at only securing the data.
+OR
+  API is acceptable in the event of making sure about data however doesn't perform well with regards to self-integration. Alongside security, self-integration is very reliable with Boomi. Additionally, the integration process is basic and execution is better in Boomi when contrasted with API.
+OR
+  In API, it’s possible to assure secure data access bit when it involves self-integration, it fails to stay up the pace. On the opposite side, Boomi performs self-integration very reliably with Boomi, the logic of the mixing is clearly understood able which is extremely difficult within the case of an API. More difference includes the slow performance of API in comparison to Boomi.
+
+Q58) After the mixing process, is it possible to travel back to the previous versions? If so, how you’ll neutralize Boomi?//After the integration process, are we allowed to go back to the previous version? If yes then how?
+Ans: Yes, it is possible to go back to the previous version with the help of the version control approach.
+
+To allow for version control, it is a recommended practice to make copies of each Connection component to be deployed. TRUE
+
+Q59). How frequently do we need the interaction of mix?
+Ans: Integration depends upon the volume of the information and our prerequisite. We can design the reconciliation cycle for a specific period with the objective that we have no convincing motivation to zero in on it a large part of the time.
+
+Q60) What do you mean by interaction in Boomi?
+Ans: A cycle is fundamentally only an interface among at least two frameworks at an exchange level. A typical model is account synchronization. The cycle contains a progression of shapes present in it as a stream graph.
+They really address the means that are required for course and change. They likewise have applications with regards to controlling the information from its source to its objective.
+ 
+Q61) Is there a need for an internet or atmosphere to run the atom?
+Ans: Yes, because the Boomi Atom that resides onsite has no GUI, it must be in fairly constant contact with the data center. One important design aspect of AtmoSphere is that, much like the Internet itself, it is a distributed architecture, eliminating single points of failure. It is important to note that even during planned maintenance of the platform, deployed Atoms continue to run and process normally.
+OR
+Indeed, since Atom doesn't have any GUI for itself, it must be in contact with the data center to run. The atmosphere is a distributed architecture, so there is no way of one point failure. Deployed atoms run in any event, during planned maintenance of the platform with no issue.
+
+Q62) Explain the connector?
+Ans: Connectors send information all through Processes. Connectors are the methods for sending and getting data between processes. Connectors act as a correspondence vehicle for moving data between various applications or data sources. These applications or data servers could be on-premise applications, online applications or data stores, a business database, or even an email server.
+OR
+Connectors are used for sending information through processes and to empower correspondence with the applications or the sources between that information need to move or the end focuses of the process.It is used for unifying our data, systems, applications, processes, and people and also enables us to connect and integrate third-party applications, such as Salesforce to NetSuite, to send and receive data between them.
+
+Q63) What are the components of connectors?
+Connectors are a mixture of two components, they are:
+Connection - physical connection information; we define the URL of a data source or application, and provide credentials to access it.
+Operation - function to call or files to act upon; how to process the data.
+
+Q64) What is the role of Connector in Dell Boomi?
+A connector is a technique for sending and retrieving the data between the processes. It acts as a correspondence vehicle to transfer the data among data sources or various applications. These data servers or applications can be on-site applications, data stores, and an email server.
+
+Q65) How will you send data through the process in Boomi?
+Ans: Connectors help move information between the procedures. These build up interchanges among various endpoints of the procedure. SAP, advanced record books, Web-based applications, and so forth fall into this procedure.
+OR
+Well, this will be through with the assistance of connectors. they’re helpful for enabling reliable communication among the endpoints of the method. Web-based applications, SAP, digital account books, a billboard database, all are often considered through them. it’s also possible to use it within the case of an email server.
+
+Q66) How can you send the information in and out of the process in Dell Boomi technology?
+We can send information with the help of connectors. Connectors are helpful for enabling reliable correlation between the process endpoints. It is further possible to use it in the account of the email server.
+
+Q67) How Often Would We Need To Run The Integration? How Close To Real Time Information Can I Get?
+Answer: We support both real-time event-based and schedule-driven executions. We have a scheduler built into Boomi AtomSphere. You can schedule an integration to run based on intervals you define (up to every 1 minute) or on an advanced schedule (more flexible). We also have an external API that will allow you to call an integration to be run in real-time from an external source or application.Integration depends on the volume of the data and our requirement. We can schedule the integration process for a specific period so that we no need to pay attention to it frequently.
+OR
+It all depends on the quantity of knowledge and therefore the true motive of the task. it’s possible to schedule integration after a selected period of time automatically and thus the difficulty of listening thereto again and again manually is often eliminated.
+
+Q68) Explain Master Datahub?
+Master Datahub is defined as a master data management solution that allows us to represent internal connectivity to the enterprises. It also makes the data synchronized, matched, modeled, and enriched on the domains.
+
+Q69) What core functionality should be implemented in an MDM project?
+Ans: MDM (Master Data Management) provides benefits that are compelling throughout all business departments. The following are the steps that should be implemented in an MDM project:
+Define - Using the Boomi Suggest feature as a starting point, rAPIdly model master data entities through a visual experience with no coding necessary.
+Deploy - Deploy models into the MDM repository and identify which source systems will interact with them.
+Synchronize – Leverage Dell Boomi Atmosphere to orchestrate data synchronization. Design process flows that ensure data.
+Govern - Govern data as it flows into the MDM system. Resolve duplicates, fix data entry issues, identify and correct erroneous data.
+OR
+Define: It quickly models the master data items through visuals without developing code.
+Deploy: In this step, we will model the data into the repository and identify the source systems that will communicate with it.
+Synchronize: It helps the dell Boomi atmosphere to organize the data synchronization and develop business flows that will assure the information sync.
+Govern: Govern the data since it flows to the MDM framework. It resolves data entry problems, identifies and adjusts the error information.
+
+Q70) How error handling is managed?
+Ans: Error handling is overseen through the ‘management' tab is the place users can see the integration process, its execution, and all related log and status notices. Boomi Atmosphere additionally incorporates retry abilities to guarantee messages that had an error during transit are conveyed. An Atom likewise tracks its state to guarantee that only unique data is prepared. At long last, decision logic can be configured to inquiry goal applications to ensure duplicate data isn't sent to the application.
+OR
+ Blunder taking care of is dealt with the administration tab is the place clients can see the combination procedure, executions, and all related log and status warnings. Boomi AtomSphere additionally incorporates retry abilities to guarantee messages that had a blunder during travel are conveyed; an Atom likewise tracks its state to guarantee that solitary special information is handled. At long last, the choice rationale can be arranged to inquiry goal applications to guarantee copy information isn’t sent to the application.
+
+Q71) What is your understanding of a Boomi expert and what are the prime responsibilities you have to handle after getting this job?
+Ans: A Boomi expert is largely expected to play the role of a developer for an enterprise or an Integration expert. Managing all the solutions and product components is one of the prime responsibilities of a Boomi expert. In addition to this, iPaas solution management is another role that the expert has to handle. There are different types of integration patterns, their implementation, development, as well as designing is exactly what an expert has to handle. Depending on the situation, there are several other responsibilities of a Boomi expert. 
+
+Q72) What is the best thing you find about the Atmosphere in Boomi?
+Ans: The best part is its coordination procedure which is extremely basic. What's more, utilizing the Atmosphere is practically like getting to online programming. Additionally, the week by week preparation offered by the Boomi support team can let anybody comprehend this technology in the briefest conceivable time. Organizations can have a lot of advantages by thinking about this methodology.
+
+Q73) What are the exact requirements to access Boomi? Is there a need for some special configuration on the system?
+Answer: There are no such necessities on the grounds that, Dell Boomi has all the necessary applications. It truly doesn’t make a difference what sort of design has on your framework, Boomi administrations can essentially be gotten to without stressing over anything.
+
+Q74) Share your experience in handling different types of software maintenance?
+Ans: Companies like Boomi pay attention to their software maintenance processes and your interviewer is hoping to hear that you know about the four unique sorts of software maintenance. Talk to your interviewer about any work you have done in the past with corrective, versatile, perfective as well as protection programming support. Utilize explicit examples and ensure that your interviewer leaves your discussion realizing that you comprehend the significance of proper software maintenance.
+
+Q75) What software analysis and design tools do you have familiarity working with?
+Ans: As a software engineer for Boomi, your interviewer wants to hear that you have experience in utilizing tools that you make you more proficient in your work. Dig back on your past experiences and talk openly about your experiences with the different analysis and design tools that are available to help you be better in the work that you do. In the end, make sure that your interviewer understands that you are proficient in the use of these tools and open to learning and using new tools as well. 
+
+Q76) Explain /List the typical software sales cycles?
+Prospecting and creating leads
+Initiating contact
+Qualifying the lead
+Presenting the offer or product
+Booking a product demonstration
+Overcoming obstructions
+Closing the deal
+Execution
+Training
+
+Q77).What are the steps of the Software sales cycle?
+In the Software sales cycle, we have seven steps they are:
+Step1: The Software sales cycle’s first step is “Prospecting,” which differentiates the potential customers, also known as prospects. This step also includes Lead creation.
+Step2: The second step is to begin the contact with the customer; in this step, we have to collect the information about our product or service and build our presentation skills.
+Step3: In this step, we will approach our customer, sometimes we approach through phone or go to our client’s location.
+Step4: In the fourth step, we will demonstrate our product to the customer.
+Step5: Handling Objections.
+Step6: In this step, we will close our deal with the customer.
+Step7: After closing the deal, we have to contact our customers regularly to solve their problems instantly.
+
+Q78) How to connect customer support?
+The simple way to connect customer support is by using the Live Chat/video chat option available in the Boomi.
+
+Q79) What precisely do you think about the advantages of utilizing the Atmosphere?
+Ans: It is a fundamentally online assistance that is best in each viewpoint. The most amazing aspect is clients need not stress over purchasing the new programming or establishment of a similar with regards to utilizing them. All that is required is essentially sign-in on the Boomi page and begin playing out the concerned errand.
+The environment is quick, dependable, just as a viable methodology that is acquiring and more consideration because of the different exhibit of advantages it offers.
+
+Q80) Can we integrate Atmosphere with Shopping Carts & E-commerce functionality?
+Ans Yes. we will integrate many other applications also.
+
+Q81)AtomSphere performs an audit to make sure you are not going beyond the purchase licenses number for your subscription when you:Run your process
+Licenses are counted per connection per runtime. If you made local copies (with the same name or same info but different component IDs) of connections, that might be it. I would check on your license page what you already have deployed to double check. If you have connector calls that would also be using a connection you aren't seeing. You can look in extensions to see all of the connectors you're using and that should be an accurate count
+
+Q82) What is Pagination?
+Ans:Pagination is a situation when the query returns more results than the API allows; hence we must constantly make the consequent calls to request extra pages till there are no pages left.
+
+Q83)The field which identifies the full standard and custom response field set along with Salesforce data formats is:Response Profile
+One of the great strengths of Salesforce is the ability to easily create custom fields and objects. Because of this, the Boomi Salesforce Connector connects to your Salesforce organization and browses the available interfaces in real time. Custom objects and fields are handled no differently than standard objects and fields. Custom objects/fields can be identified by the __c suffix. If you don't see your custom object or field when importing an object, make sure the security permissions for that object/field allow at least read-only access to the security profile assigned to the user name you're using to connect. If you modify an object in Salesforce after importing it in Boomi, you will need to edit the Operation Component and go through the import wizard again to re-import the recent changes.
+
+In a Salesforce Write Operation, the maximum bulk API records are:10,000
+Use the Salesforce Bulk API v2 to quickly and efficiently upload large amounts of data. With the Bulk API v1, you must manually break up your data into batches and are limited to 10,000 records in a single Send operation.
+
+In a Salesforce Write Operation, the default batch count is 200
+Configure the Batch Count - The outbound Salesforce connector operation is automatically configured to batch the XML requests into 1 group of 200 documents. This is the maximum amount allowed in one call by the SFDC API. This will help considerably with API usage statistics.
+Limit the inbound data - Depending on your source for the outbound Salesforce integration, you will want to consider minimizing the number of records processed during a single execution. In a Database integration for example, you should consider only querying a maximum of 1,000 - 10,000 records at a time.
+Use the Upsert Action - The Upsert action will perform the logic to either insert or update a Salesforce record automatically. This will prevent the need for: 1) A preliminary Salesforce lookup to see if the record exists. 2) A unique Salesforce Insert operation.3) A unique Salesforce Update operation. 
+
+ What section can edit in the Salesforce Operation component to configure filters and sort? Query Limit
+This action is the only Get action available for the Salesforce connector and returns zero-to-many object record documents from a single Query request based on zero or more filters. As shown in the following image, the bottom half of the operation page contains configuration options to select the fields to return, add filters to limit the results, and select sorting options.
+
+ A Salesforce Upsert Action will create a record if you do not supply an internal ID field. TRUE
+
+ The three Salesforce Write Actions are: Select all that apply
+Create, Delete, Upsert
+The Salesforce operation defines how to interact with your Salesforce account.
+The operation represents a specific action (Query, Create, Update, Delete, etc.) to perform against a specific Salesforce record type or object (Account, Opportunity, Contact, etc.). Create a separate operation for each action/object combination required for your integration. Not all actions are available for every object.
+The Salesforce operation supports the following actions:
+Get: Query
+Send: Create, Delete, Merge, Update, Upsert, convertLead
+
+The two main categories of Properties are: Select all that apply.
+ Document, Dynamic
+There are two types of document properties:
+Standard document properties (called simply document properties) — Contain run-time specific information such as connector or trading partner details.
+Dynamic document properties — Arbitrary values that you can use to temporarily store related values.
+
+can you persist a Dynamic Document Property value and remember its value for future process executions? FALSE (DOC)
+Unlike a process property, you cannot persist a document property value and “remember” itsvalue for future process executions.
+The short answer is no.
+But..., the wonderfull thing about Boomi is that there is always a way, and the thing you could do is to create a process property where you store the process execution ID.
+In the same process you create a csv-file with named process execution ID. In that csv-file you append all the document properties, with a unique key and the document property.
+
+Dynamic Document Properties: 1.Value cannot persist
+2.Value is assigned on the documentlevel and can be different perdocument
+3.Once set, only available as long asthe document exists – will continueacross branches (if set before theBranch shape), but does not continueacross Message shapes or outboundConnectors
+
+ You can persist a process property value for future process executions using the same process/Atom. TRUE (DOC)
+process property values exist in memory during the process execution but are no longer available after the execution completes. However, it is possible to persist, or remember, a property's value across subsequent executions.
+
+Persisting a property value stores the value in the Atom and loads it into memory automatically the next time the process is executed.
+Persisted properties are often used to maintain continuous counters or incremental values such as record dates that can be used in the selection criteria of future executions.
+
+Dynamic Process Properties : 1.Value can persist across process executions
+2.Value is assigned on the process level– the value remains the same unlesschanged by a process step
+3.Once set, available anywhere in theprocess including child processes
+
+Dynamic Document Properties are available anywhere in the process including child processes. TRUE
+
+A Dynamic Process property value can be set in the beginning of the process and retrieved later in a different part of the process. FALSE
+
+When setting the Dynamic Process Property Name, you must remember the exact name, because it is spelling and case-sensitive. TRUE (DOC)
+
+Dynamic Document Properties are set where: Anywhere in the process
+A dynamic process property is a single "on-the-fly" property that you create.
+
+The three locations to set Dynamic Document Properties are: Select all that apply.
+1.Map function,2.Groovy script,3.set properties shape,4. Set Document Property map function 
+https://techygeekhub.com/dell-boomi/get-and-set-ddps-in-groovy-script/
+Parameter type list from most process shapes/ Operations Connector(MB)
+
+Document properties are set in a database connector. FALSE (DOC)
+
+Document properties can be set in:
+The Set Properties step
+The Set Document Property map function
+A custom scripting step
+XSLT Transformation step
+
+Document properties can be retrieved from:
+The parameter value list for most process steps
+The Get Document Property map function
+A custom scripting step
+XSLT Transformation step
+
+The three locations to retrieve Dynamic Document Properties are: Select all that apply. 
+1.Map function,2.Groovy script,3. Parameter type list from most process shapes 4.Get Document Property map function
+https://techygeekhub.com/dell-boomi/get-and-set-ddps-in-groovy-script/
+
+All fields listed in the mail operation Options are static values or dynamically defined using a Set Properties shape. TRUE
+
+You must deploy Persisted Process Properties. TRUE
+
+Persisted process properties cannot be deleted TRUE
+
+Parameter values can represent data from: Select all that apply. (DOC)
+Parameter values can represent data from a document field, the current system date/time, a static value, the result of a connector call or database query, or a variety of other values.
+
+A connector call should always be the first option to retrieve document-level queries on the fly because it is so fast.
+
+In an Application connector Operation, what do you click to make sure you have successful connectivity? The Connection Component (cheg)
+
+The Operation in an application connector contains the URL and integration user login. TRUE (DOC)
+
+An application connector provides connectivity to software applications such as NetSuite, Salesforce, SAP, Amazon, etc. TRUE (DOC)
+
+The Operation in an application connector contains a read or write action and the request/response definition. TRUE
+
+ Which three statements are true about a Message shape:Select all that apply.(DOC)
+Creates a free-flow text message from dynamic or static inputs
+Is often paired with a Mail connector to create advanced communications
+Is often used to produce a new document sent through the process
+
+ What is the difference between Notify and Message shapes?
+If you have your notify shape set Enable Events, and you subscribe to email notifications, then you will receive an email to notify you about the event, with the data you have defined for the notification.
+But on the other hand you can use the message shape to generate another type of email i.e. to recipients who doesn't subscribe to email notifications.
+So the Notify shape can have something to do with email notification, as well as a message shape can be the source input to an email sent by the mail connector / operation.
+
+ Check this Notify shape option to group all messages and write once.Once Per Execution
+Write Once Per Execution If selected, individual log entries or event messages that are generated per document that reaches the Notify shape are aggregated and written only once.
+
+The Notify shape produces what type of user alert? User.notification
+The USER.NOTIFICATION alert identifies a Notify shape having the Enable Events option that was included in a process execution. The message level (Info, Warning, or Error) set in the Notify shape affects the type of email alert that is sent, but it does not stop a document or set of documents from processing to completion
+
+Check this Notify shape option to make sure the notification is in the account event log that is the basis for emails. Enable Events
+
+Using the Notify shape within a process does not change your data. It’s intended to read in any relevant document fields or properties, then pass along the document to the next shape, untouched. TRUE (DOC)
+
+Which shape can be used to send email alerts in Boomi?Ans:Notify
+
+The Exception shape triggers User Alerts received when only when logged into AtomSphere.T/F
+
+Exception shapes produce what type of user alert. Process.execution
+You can use the Exception shape in your process flow to trigger PROCESS.EXECUTION alerts. You can also use the Exception shape to send a customized message for the first document that encounters an error and to stop all or any documents that reach this shape.
+
+Exception shapes are often used when document data fails to meet certain conditions of a Route or Decision shape and should not be processed further.(DOC) TRUE
+
+Test Mode connectors support the retrieval of the maximum of: 100 documents or 10 MB
+When running a process in Test Mode, you may receive an error stating that you cannot receive more than 100 documents or more than 10 MB of data in a test run. Test Mode does not support receiving more than 100 documents or 10 MB from a given connector call.
+Solution
+To get around this issue:
+Unit test the process, by limiting the amount of data being returned by each query in your process
+Deploy the process and run executions through Manage --> Process Reporting
+Setup Enhanced Test Mode Setting Up and Utilizing Enhanced Test Mode
+ 
+You must deploy a process before you can run it in test mode.FALSE
+You should run the process in a Test Atom Cloud or install a local Atom on which the process can run during development and testing. The process does not need to be deployed to that Atom.
+
+ When you run a process in test mode, it always uses the latest version of the process, attributes and sub-objects. TRUE (MB)
+
+ In Test mode, logs and data files are temporary. TRUE
+The log and data files produced during a Test mode execution are temporary! When you exit Test mode, this information is lost.
+
+What are the three things you can do on the Process Reporting page?Select all that apply.View the first error, View the Process Logs, Click on filter links to sort by execution status (MB)
+
+ What are the two things Process Reporting page allows you to do? Select all that apply. View executions, Rerun the process in test mode
+
+ The default execution view of the Process Reporting page defaults to all executions launched in the past hour, across all atoms. TRUE
+ 
+The regional public clouds use Universal Time Coordinated (UTC). TRUE
+All Boomi Atom Clouds and Test Atom Clouds are configured to use the Etc/UTC time zone, except where noted in the Related reference for Hostnames and IP addresses for the Boomi Atom Clouds and Hub Clouds.
+
+ The time zone schedule used by the process depends on: where the atom is installed
+The schedule time will follow the time zone of the atom server. In other words, the time zone on the server where the atom resides is when the schedule runs. Note that the Boomi Atom Cloud is located in the Eastern time zone.
+When viewing execution history in Process Reporting, the results are presented in the time zone configured for the user currently logged into AtomSphere. You can set your time zone preference in Setup > User Information.
+
+ Deploying a process executes the process into active production. FALSE
+Deploying a Process does NOT Execute the Process into active production.
+Once a Process is Deployed, it needs to be Executed either by:
+•Manual execution (ManageProcess Reporting) 
+•Applying a schedule (ManageAtom Management)
+•External event triggering a Listener process
+
+ An external event triggers an External Process schedule. FALSE
+Event-based integrations are recommended where processing is required in response to irregularly occurring external events. Typically event-based integration processes are not executed on a schedule. Rather, once executed, an event-based process continuously “listens” for the occurrence of a specific event. 
+
+Which Database Connector Option has a drop-down to choose one of the pre-supplied, packaged types of SQL Server, MySQL, Oracle, or Custom? Driver Type
+A few of the databases in the Connection tab's Driver Type drop-down have pre-loaded (packaged) JDBC drivers. Your database connection may require newer or specific versions of a driver, while a custom connection requires drivers of another JDBC- or ODBC-compliant database.
+Note: In addition to the connector's drivers, the Boomi Atom Clouds contain database drivers for some versions of the following databases: SQL Server, PostgreSQL, and MySQL.
+
+ What are the two ways to test Database Connectivity?Select all that apply. (8mb) 
+Click the Test Connection button within the Connection component
+Click the Import Wizard button in the Operation Component
+
+  In the database write profile, you can statically or dynamically define Write statements against a table or stored procedure inputs. TRUE
+Write profiles are used to write records to a database. Write profiles contain one or more INSERT/UPDATE/DELETE statements (and/or stored procedure calls) and the input fields for those statements. In a map, the Write profile is referenced as the destination profile. You can define multiple statements to insert or update parent-child relationships in one map.
+
+The three Database Operation options which define how statements are batched and executed are:Select all that apply. 
+Batch Count, JDBC Batching, Commit Options
+
+What are the three reasons why reusable components are important?Select all that apply. 
+ Reduces duplication of effort
+ Helps to efficiently use license connections
+ Manages Common functions in one place
+
+Components are reusable configuration objects.that are used in process. TRUE
+
+The three Boomi recommendations for reusing components are: Select all that apply. (MB25)
+Store in common folder
+Store login information in the connection
+Use extension values at the environment level
+
+Undeploying will not delete components referenced by a newer configuration. TRUE
+Restoring occurs only for that particular component and non component shapes( I mean shapes which are not components.) This will not delete any other things.
+
+ It is important to control your connection components and reuse them in deployed processes, whenever possible. TRUE
+Connections are deployed at the Atom level. If you use extensions, you can reuse the same connection components and supply different configuration information at deployment time.And to Reduces duplication of effort
+
+ When you are ready to schedule your deployed process, click the Scheduling button above the Process Canvas. TRUE
+A process must be deployed to an Atom, Molecule, or Atom Cloud to run on a schedule. A schedule starts as soon as you deploy the process and add the schedule.
+
+You can schedule a deployed process to run every 30 seconds. FALSE
+As of now, the Boomi process can be scheduled once a minute. That's the minimum time possible for scheduling.
+
+What is contained in a deployed version? A packaged process with all components are bundled together.
+
+AtomSphere controls all version names including those in Package Components.TRUE (DOC)
+
+You can deploy a single process  to many Environments. A single Environment can host many deployed processes. TRUE
+
+The maximum number of environments you can create is unlimited
+
+Of the following, which three are subcomponents of a process?Select all that apply.(MB16)
+User Defined Map Function,Database Connection,Environment
+
+Where is a snapshot taken of the process and subcomponents? Deployment
+Deployment Concepts
+With legacy deployments, when you deploy a process you are really doing two things at once:
+Creating a "snapshot" of the process and all its sub-components (e.g. maps, profiles, subprocesses, connections, etc.) and their specific revisions.
+Deploying that "snapshot" to a given environment and Atom runtime.
+With package component deployment these are now separate, explicit actions. The "snapshot" is named packaged component
+
+ The three steps to run a process are:Select all that apply. 
+Package, Deploy, Manage
+Steps to run a processs ??
+1 Build
+2 Package
+3 Deploye
+4 Manage
+
+ Boomi groups user alerts by event group type and sends in one email for what time interval 15 minutes
+All alerts that are reported within a 15-minute period are grouped by event type and sent in one email. When a user sets a time zone on the User Information tab, messages use that time zone for dates and times.
+
+What three actions can the Connector shape perform? Listen, Get, Send 
+The available actions are determined by the type of connector that you select. Examples are: Get, Send, Create, Query, Delete, Update, etc.
+When used in the Start shape, this is used to select the inbound action for your documents.
+Get — Retrieves documents from application or server.
+Listen — Enables process listening for certain connector scenarios (for example, AS2, Web Services Server). You need to deploy the process to enable the web server for listening.
+
+When a document continues to split many records, each split document shares the same Original Document ID. TRUE
+ True All the split documents do share same original document
+
+Documents are identified by their original ID. This is especially important to rememberwhen splitting a document with multiple records or when combining documents:• Split: If one of the split documents encounters an exception, the single original document ismarked as failed and stops processing.This means all the other split documents from that
+
+What happens if one split document fails?
+The shared Original Document ID is marked as a failure, causing all the split documents to fail and stop processing.
+ Splits each line (record) into a separate document or documents. This is useful for breaking up very large files into smaller pieces. For example, you may want to split one document with 5,000 records into 10 documents with 500 records each. If you split them prior to a Map shape, you can achieve better performance.
+
+ The two basic types of Map Function are: Select all that apply.User Defined & Standard
+There are two main types of functions:
+Standard — Standard functions perform a single step such as converting a value to uppercase or performing mathematical operations. See the full list of standard functions linked below.
+User-Defined — User-defined functions enable sophisticated transformations by allowing you to link multiple standard functions steps together in a defined sequence. They are saved as standalone components and can be reused in multiple maps.
+Any function input can be mapped from the source data. This includes inputs like Fix to Length, String to Search, and Value to Multiply, however, these values are often static and therefore configured as default values.
+
+Which of the three following statements are true about a map shape:Select all that apply. 
+Transforms data from one structured format to another- Use maps to transform data from one format to another, or more specifically, from one profile to another.
+References a predefined Map component- The Map shape references a predefined Map component. When you configure a Map shape the Map Shape dialog opens. 
+Requires a source and destination profile-A map cannot be used in a process unless it has both a source profile and a destination profile.
+
+The two types of commands used in the Program Command shape are:Select all that apply.
+The Program Command shape enables database and system-level commands to be executed as part of the process flow. There are three types of commands available: SQL statements, stored procedures, and system commands.
+
+The program Command shape does not support the following SQL statement: SELECT
+SQL Statement — Execute a database SQL action (INSERT, UPDATE, DELETE). Queries are not supported in the Program Command shape because there is no database profile to identify the response's record structure. Use the Database Connector in mid-process to perform a database read.
+
+The Program Command shape allows you to pass one value back into the process. FALSE
+
+ Which three statements are true about a Mail Connector: Select all that apply. Can send email to an SMTP server,  Has a reusable connection component, Has a reusable operation component
+To configure a connector to download and upload files to an email server, set up two components:
+Use the Mail connector to read email from a POP email server and send email to an SMTP email server.
+The Mail connector offers an alternative to a traditional Value Added Network (VAN). 
+Because the email connector is Internet-based, there are no ongoing document fees when exchanging data between trading partners.
+Mail connection
+Mail operation
+This design provides reusable components, which contain connection settings such as the host, user name, password, etc. After building your connection and operation, set up a connector within a process. When you have properly configured your connector within your process, Boomi Integration can map to and from virtually any system using the Mail connector to retrieve files from or send files to an email server.
+
+ The 5 steps of an AtomSphere Development Life cycle are:
+ 1. Gather Requirements 2. Development 3. Unit testing 4. QA testing 5. Release
+Cloud-based data and application integration-as-a-service platform
+Graphical integration development environment
+Develop and manage integration processes from a single web-based console
+Deploy and run integrations anywhere: cloud or on-premises
+Single instance, multi-tenant platform
+
+ The Decision shape can check for the existence of a record in the destination system to determine whether to create or update it. TRUE (DOC)
+
+ When using a Decision shape, AtomSphere processes True and False documents at the same time. FALSE
+The Decision shape routes documents based on a true/false comparison of two values. Those values can be anything from field values in the current document (profile elements), static values, results of a database, an application query, and more.
+The Decision shape's logic is executed once for each document that reaches the shape. This means that if a document contains multiple records (for example, a batch file) or the Decision shape's logic needs to be applied to a "detail" level field (for example, item codes on each order line), you must split the document before the Decision shape.
+At execution time, "True" documents are processed to completion before the "false" documents are processed. This is important to understand if processing on the False path depends on something processed on the True path. For example, in a sales order synchronization process, first you may want to check whether the customer already exists and if it does not, create a new customer before inserting the sales order.
+
+ The INPUT value for the User Defined Function attached is:  a76braTo-456 What is the expected OUTPUT value? 
+A76BRAPO-4SHIP
+
+In a User Defined Function, how do you make sure you execute a step first.
+It needs to be the closest step to the inputs
+
+One way to create a Profile is: Import in the Connector Connection
+You can import a profile from an existing file such as a database table or an XML file. When you re-import a profile to incorporate updates, the connections in any map that the profile uses may be affected. An attempt is made to match profile elements in the new profile to profile elements in the old profile based on the full name path from the root node. Any change to the name of a profile element or any part of the element's path name causes a mismatch. For example, if the original profile element was Root/account/company/name and the new profile is Root/acct/company/name, all elements under the original account element no longer match. Because the existing map connections for those profile elements are discarded, you need to remap the connections for the updated profile elements.
+
+A profile is a shape.FALSE
+Profiles describe the layout or format of documents read into or sent out of processes. To describe a flat file, for example, the profile contains field names, delimiters or column positions, data types, min/max lengths, etc.
+
+Profiles describe the layout or format of different documents read in or sent out of AtomSphere. TRUE
+
+Which three shapes use profile elements?Select all that apply. (MB37)map
+Decision, Filter, Set Properties
+
+The Flow Control shape can change how documents flow through the process. What are the three behaviors  possible using Flow Control?(DOC)
+Each document executes to completion before next document starts.
+A batch of documents executes to completion before next batch starts.
+Documents execute at the same time in many threads.
+
+How do documents flow down paths? Sequentially
+Branch shape executes sequentially. Which means, branch 1 will be executed till its completion first. Then it takes branch 2, 3, etc.
+Route shape executes based on the condition you have set. Usually when we send documents to Route shape, we split documents therefore when documents reach route shape, all documents are collected and grouped together based on the route by value. Then the documents are sent down to respective branches sequentially. If match is not found it would go down default path
+
+Every document flows down every path of a process. TRUE
+Yes, all documents will flow through the path as long as it is designed to process down the path. If you are talking about the same document, again it depends on what function you apply on the document and the shape used. Typically you can send a document to all path in a process.
+
+What are the three ways to automate a process?Select all that apply.  
+Internal Scheduling,  External Scheduling, Event Driven Integration
+
+All folders can be moved and deleted. TRUE
+
+You must log in to AtomSphere to view an email alert. FALSE
+
+The Process Properties Component defines a collection of properties you can refer to throughout your process. TRUE
+
+You receive string data, and your destination accepts only upper-case string with a length of 8 and leading zeros. Which map function(s) would complete the transition? option- C
+
+As you configure your map, you realize you did not retrieve all your source data from your profile; what is the first thing you should try to resolve the issue?
+Pick the field from the profile dropdown
+
+What are the three recommended practices for Connection Licensing? Select all that apply. 
+Avoid using duplicate Connection components in a single Process
+ Create a shared connections folder to house shared connection components
+ Reuse the same Map shape throughout all integration projects
+
+Component locking is available on all editions. TRUE
+
+The Show Where Used feature shows all references of a component using a filter in the component explorer panel. TRUE
+The Show Where Used filter shows all the locations where the selected component is referenced.
+
+What are the three parts of a Connector shape: Operation, Connection, Connector
+
+Which three statements describe the Original Document ID?Select all that apply.
+It keeps track of each document as it flows through the process.
+It changes as the document enters each shape.
+It keeps document properties and content connected properly.
+
+Which two statements are TRUE about the Original Document ID.Select all that apply.
+Document ID follows the document through the process
+Document ID gets reset in a Try/Catch shape
+
+Which is NOT a Start shape type? Data flow
+
+Revision history is available for all shapes. FALSE
+Shapes does not have revision history only components have it. Shapes that are not components do not have any revision history. But shapes which are components have the revision history.
+
+All shapes are independent of the process, versioned separately and reusable.TRUE
+
+Versioned Components are:Select all that apply
+Set Properties, Map,Connector 
+
+What are the two recommended practices for naming folders are: Select all that apply.
+Be consistent,Concise and descriptive names
+
+What are the two reasons why do you use a Query Limit? Select all that apply. 
+Unit Testing,Handle Distinct Queries, Limit Large Data Migrations
+
+Which two statements describe Component Source Control Management?Select all that apply. 
+AtomSphere is the source control engine, All users work with the latest revision
+https://community.boomi.com/s/article/tipsandtrickscomponentmanagement
+
+TGH TEAM
+=============
+Can we Retrieve DDP value in Sub process with Start shape of No data Type ? FALSE 
+
+If you are reading 100 files from a directory and you need to store the filenames of each file then what would you use?Ans:Dynamic Document Property
+
+Which action in the FTP connector helps us to poll the files? Ans: Get
+
+Point-to-point integration architecture forms "tightly coupled" connections between components. TRUE
+
+Which performs a dynamic lookup against a Document Cache component and retrieves particular fields from a document.Ans: Document Cache Lookup
+
+Which is a reusable component containing index and definitions to retrieve document data. Ans: Document Cache component
+
+When configuring a web service client connection, the base URL is stored in the: Ans: HTTP Client Connection
+
+Which Connector type is used to establish connectivity to a Rest Web Service. Ans: HTTP Client
+
+The official standard for Restful Web Services is HTTP. TRUE
+
+It is mandatory to configure the response profile in HTTP connector operation to get a response. FALSE
+
+In Business Rules, conditions can perform comparisons of inputs against the static value or against each other.TRUE
+
+In which Schema The complete code to define the Structure of request and response message is written outside the WSDL file? Ans:Internal Schema
+
+In WSDL what is that single entity which represents the collection of operations supported by services? Ans:Binding
+
+In Map shape how can you pull the data from cache? Ans: Document Cache lookup, Add Cached Data
+
+Which steps cant be used more than once in a userdefined map function? Sum and Count
+
+where can we track a process which ran successfully in low latency mode? Real-time Dashboard
+
+How do we pass the PATCH opertion in the HTTP Patch connector? Dynamic Document Property with prefix inheader
+
+Which option allows us to turn on/off Boomi suggest? Settings --> Features --> Data Collection --> On/Off
+
+Which edition of Boomi subscription has Atom Queue connector enabled by default? Enterprise Plus
+
+Which edition of the Boomi subscription supports the orcale E-Business V2 connector license by default? Enterprise/Enterprise plus.
+
+Which shape apart from Map shape can be used for transformation? Message
+
+Can We use more than one Source Profile in Boomi in map Shape? TRUE
+
+If a default value is set on a destination profile element, it will always override the source profile element mapped to it. FALSE
+
+Cross Reference Table can be modified at the time of execution without any redeployment. TRUE
+
+Whenever we want to Route the Flow to different execution paths based on the value of certain s then we can use it? Ans: Route Shape
+
+An execution is an input for running a process, which helps to view the data passed into and out of the process, and Error Messages. TRUE
+
+To listen to the changes in State of Something and Perform or Trigger some Series of Actions is called? Ans: Event Listener
+
+Can cloud atom fetch the details of the Database from the local machine? TRUE
+
+Does Find changes can support the JSON format Data? FALSE
+
+Which of the Following connectors does not affect license count? Ans: AS2 Shared server, Atom Queue, Web services server
+
+Is it possible to change the parameters of the DPP after Deployment? TRUE
+
+Which profile is not possible to split in Data process shape? Ans:Database
+
+Which profile is not supported by the Find Changes shape in Boomi?  Ans:Database
+
+Which start shape type produces a single empty document. Ans: No Data
+
+Routing type shapes (Route, Decision, Business rule) can cause different documents to take different paths, TRUE
+
+If we want to send documents from the main process to the subprocess, what should be the start shape type in the subprocess?Ans:Data Passthrough
+
+When configuring a database query operation, the link element is usually a database primary key TRUE
+
+When packaged the process and all components referenced by the process or the other components are bundled together into deployment version. TRUE
+
+To Define our Web Services SOAP Client Connection, We must provide a WSDL URL along with the SOAP EndPoint URL. TRUE
+
+When an inbound document encounters a Branch shape, the documents are duplicated. TRUE
+
+The connection data tab displays inbound and outbound documents. TRUE
+
+The SHAPE SOURCE data tab displays inbound and outbound connector documents? TRUE
+
+The Catch Branch of try-catch shape will receive the input as same as the input received by the try branch or subset of it? TRUE
+
+What is the max number of retries in Try/Catch shape? Ans:5
+
+The Try/Catch shape does not execute auto-retries while in test mode. TRUE
+
+From where can you retrieve the error message in the "Catch" path for a document exception caught by a Try/Catch shape. Ans:A base Document Property
+
+Which property is recommended to be used when the same key value pair needs to be accessed across n number of processes in Boomi? Ans:Process Property
+
+We can achieve parallel processing in test mode. FALSE
+
+When executing an EDI process with an acknowledgment in test mode, what does the first file contain? Ans: an acknowledgement
+
+____________supports Dell Boomi Atmosphere to orchestrate the data synchronization and design process flows which will ensure information. Ans:Synchronize
+
+We can see the processes ran in low latency mode in the process reporting. FALSE
+
+The low latency Process option is recommended for Web server and event-based processes. TRUE
+
+The max number of web service processes that can execute at the same time with an Atom Worker is: Ans:20
+
+Atom workers improve the performance for certain requests in a Boomi private or public cloud. TRUE
+
+Which step is NOT taken to deactivate the process? Ans: Unpackage the process
+What two steps do you take to deactivate a process?Ans: Stop the Schedule, Undeploy the process
+
+If you remove a component from a process, It is permanently removed from the AtomSphere. FALSE
+
+What are the three areas of the Purchase order Spec summary? Ans: Header, Detail, Summary
+
+When leveraging the Boomi Atom Cloud for web services publishing, which of the following represents the base URI to invoke the service Ans:https://connect.boomi.com
+
+On the process reporting page, how do you open a more detailed document pane? Ans: Click hyperlinked timestamp
+
+Which of these components can be deployed individually? Ans:Process Route
+
+Connection licences used are calculated by multiplying the number of connections by the number of deployed atoms? TRUE
+
+Which mail connector configuration decides if you must supply login credentials to authorize the user with the mail server? Ans: User/Pwd Authorization
+
+Which of the following in mail connectors ensures Authentication and encryption during Communication online between client and server? Ans: Use SSL
+
+By Enabling the option ‘Stop a Single Document’ in exception shape, Entire process will halt & all documents will be marked as failed. FALSE
+
+Min. no. of connection licenses required to Create a process to read files from 3 diff. Directories from disk & deploy this process to 2Atom Ans: 2
+
+Connection licenses are calculated by multiplying the number of connections by the number of deployed atoms. T/F D
+
+The Accumulate Output feature for loops accumulates the output for which activities? Ans: selected activity in the loop, all activities in the loop.
+
+Can we restore the deleted components in Boomi? TRUE
+
+API Integrations allow for two or more of your tools to automatically update and communicate with one another. TRUE
+
+Can we achieve on-prem,hybrid and cloud Integrations with Atom in Boomi ? TRUE
+
+During Deployment, Atomsphere audits your account to make sure you have enough connection licenses to deploy into production. TRUE
+
+Which Shape sends the data down a path and defines the custom error message reported in the Manage tab? Ans:Exception
+
+Which one of the following cant be extended in Boomi? Ans:Lookup Document Cache
+
+To Export or import a package, first we need to create one of the following? Environment
+
+In Boomi, Inputs for a Business Rule can be? Fields & Functions
+
+which type of runtime engine in Boomi does not support "Forked Executions"? Atom
+
+________shape in Boomi is used to define the Error Explicitly? Exception
+
+Which component of Anypoint Platform is used for API Design? API Designer in Design center
+
+When configuring a web service client connection in Boomi, the base URL is stored in _____? URL TAB IN CONNECTION.
+
+When we are exposing an API, can we customize the API Endpoint URL? TRUE
+
+Where is the Base URI configured when using the HTTP Client Connector to call a RESTful Web Service? Connector
+
+Which option needs to be disbled if we want to simultaneously access the Boomi platform from more than 2 devices? Limit the number of concurrent sessions to two per user
+ 
+Shape type 'change data capture' refers to which shape in component XML? Find Changes
+
+Other than Atom Management, where can we access the offline list of Atoms and molecules? Account Dashboard
+
+Which option is used, when you want archive documents for a specific process? Connector Archiving
+
+In Business Rules, Group and Logical operators applied for compound logic are ____ ?AND & OR
+
+"Business rule result message" document property displays the name of the Business Rule where the document failed.? TRUE
+
+Which of the following shapes can perform nested logic in Boomi? Business Rules
+
+Using 'API Management APIs' in Boomi, what operations are available for the Contract Object? Get,Query,Create,Update,Delete
+
+What links an Application to a Plan and generates an API Key in Boomi? Subscription
+
+To import a swagger specification file into an API Proxy component, it must be either JSON or YAML? TRUE
+
+The API Proxy component contains a unique Component ID and Revision History? TRUE
+
+Which type of atom can not be configured with an Authentication Type of Gateway? Boomi Atom Clouds
+
+Where can users discover what APIs they have published? Deployed APIs
+
+By using stored procedure type is it possible to route using route shape? TRUE
+
+In Boomi, Which of the following is a Health Check URL for a Gateway? http://localhost_________? //localhost:8080/_healthcheck
+
+Which of the following types are present in program command shape? SQL statement, Stored Procedure, System Command
+
+In Boomi, During Deployment, AtomSphere audits your account to make sure you have enough connection licenses to deploy into production? TRUE
+
+Atom workers improve performance for certain requests in a Boomi Public or Private Cloud. TRUE 
+
+In Boomi, All shapes are independent of the process, versioned separately, and reusable. TRUE 
+
+After the Integration Process in Dell Boomi, Is it possible to go to the earlier versions? TRUE
+
+How many services are present in Boomi? 4
+
+How many licenses do we require if we have to deploy a Process consisting of a processing group with four Trading partners into an Environment with a Molecule with two nodes attached to it? four license
+ 
+In Boomi, all shapes are independent of the process, versioned separately, and reusable. TRUE
+
+Which API type is required when using API Management? Advanced
+
+In Boomi, the Decision shape can check for the existence of a record in the destination system to determine whether to create or update it. TRUE
+
+Which Connector shape among the following supports Listen to action only as a start shape? Web Service server
+
+Which shape in Boomi is used to give Error Explicitly? Exception
+
+In the split document which profile has split by line option? Flat file
+
+Which shape among the options doesn't refer to a Component?  Business Rule
+
+In the "Test" process, which among the following is not the "Test Extensions?" Dynamic Document Property
+
+Which start shape allows the data to pass through the Subprocess? Data Passthrough
+
+In Boomi, the Test mode is limited to a maximum aggregate data size of _______ MB across the entire process execution. 10MB of total data
+
+To Define our Web Services SOAP Client Connection, We must provide a WSDL URL along with the SOAP EndPoint URL? TRUE
+
+Boomi Suggest is a Community driven suggestion wizard for data Mapping? TRUE
+
+Which shape in Boomi is used for Data against Schema validation? Cleanse
+
+By clicking Roll back a previous revision automatically deploys it? TRUE
+
+Apart from Process Route, Which of the Following can Package Individually? Custom Library , Certificates
+
+Which Option in Disposition in Mail operation helps to send Attachment? Attachment
+
+9# What is/are the PGP encryption algorithms that are available in Boomi?  RSA and DSA algorithm
+
+When we are exposing an API using a Web services server connector, how can we configure the maximum concurrent excecutions that it can handle? Using the 'maximum number of threads' option in a shared web server
+
+If we have added an email subscription on the Email Alerts page. how will be the receiver of the emails generated? The user who subscribed to the email alert
+
+Where can we see and edit the persisted DPPs? Atom management -> Deployed Processes -> Select the process and click on options to see edit process properties
+
+For SFTP connnection with key-based authentication, where do you plce the ssh public key? Under the Atom's directory on the server where the atom is installed
+
+To import a swagger specification file into an API Proxy component, it must be either JSON or YAML? TRUE
+
+6# Which option needs to be disabled if we want to simultaneously access the Boomi platform from more than 2 devices? Limit the number of concurrent sessions to two per user
+
+Shape type 'Change Data Capture' refers to which shape in component XML? Find Changes
+
+Which edition of the Boomi subscription supports the Oracle E-Business V2 connector license by default? Enterprise/Enterprise plus.
+
+Other than Atom Management, where can we access the offline list of Atoms and molecules? Account Dashboard
+
+Which option is used, when you want to archive documents for a specific process? Connector Archiving
+
+In molecule which property is used to restrict the process execution time limt? Maximum Forked Execution Time
+
+4# If we have Boomi Professional Edition and want to enable the Web Services Server connector, which feature needs to be purchased without upgrading the Bommi Edition? Services Enablement Feature
+
+Without using a script, which shape can be used to fetch the Execution Id of a process during its runtime? Set Properties Shape
+
+A process having a Nofity shape is deployed in a Production Environment. However, the user didnt receive an error email even though the notify shape had generated the error message in logs and the users correct email address was added to the Email Alerts. Which option wasnt enabled in this case? Enable Events option inn notify shape or In Email alert settings LogLevel and EventType - User.Notification option was not enabled properly.
+
+Which Data Type masks the value of a property in the process Property component? Hidden
+
+Which option needs to be enabled to immediately remove the process data from Process data from Process Reporing, of a single specific process, without impacting the other process? Purge Data Immediately
+
+5# Which feature can be used to overcome test mode limitations? Enhanced Test Mode feature (it's a paid feature). Alternately, we can deploy and execute the process, or, limit the number of documents coming from source if possible.
+
+What type of error occurs, when stop a single document is checked in the exception shape? Only fail the error documents and mark other documents as success. Document level error will be logged.
+
+For production atom cloud, purge hisory after x days is set to 24 days. HOw long will the data files be available? If it's Boomi Public Atom Cloud, then 14 days. If it's Private Atom Cloud, then 24 days.
+
+ws/simple/endpoint is disabled for which API type? Advanced.
+
+If a Process errors out, how can we automatically save the process logs into the logs direstory local atom? By using 'Auto Capture Errors/Warnings To Local Log' option in process mode"
+
+7# which solution hub enables users to depict internet conectivity to the organizations and allows data to be synchronized, enriched, and modeled? Master Data Hub
+
+Which version have preloaded qualifiers for EDI X12? 4030
+
+Which type of EDI Doc type uses a Composite demiliter more often? Edifact
+
+AN ____operation produces the same results even when done once, twice, or a thousand times.? Idempotent
+
+Which is not an acknowledgment in EDI?  998
+
+8# Where can we check the recent changes done in the environment extensions? Atom Management-> Select Environment -> Go to Environment Extensions -> Show Audit Logs
+
+In Boomi, while receiving a zip file from an FTP location, how can we fetch the filename which are present in the zip file? Use Data Process shape, Configure Processing Step as Unzip, Connector as FTP, Action as Get and Property as File Name to fetch the file names in zip file
+
+What is the maximum number of days we can store and view the process logsfrom process reporting in Boomi? 30 days
+
+While consuming a REST API, how can we capture the headers that we get from the response? HTTP Client-> Operation -> Response Headers: configure required response header's field name and a name for DDP accrodingly
+
+How can we automatically store the documents that we receive from a Database connector in document cache? Database Connector -> Operation -> Caching : Set/Choose documents cache properties to cache automatically
+
+
+
+
